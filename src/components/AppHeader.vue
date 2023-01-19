@@ -17,6 +17,11 @@ export default {
 </template>
 
 
-<style>
-
+<style scoped>
+h1 {
+    text-align: center;
+    color: rgba(228, 12, 12, 0.767);
+    font-size: 4rem;
+    text-shadow: 2px 2px black
+}
 </style>
